@@ -1,0 +1,481 @@
+TV_Brand,TV_Name,Star_Rating,Warranty,ScreenSize_cm,ScreenSize_inch,Sound_Output,Rating,Reviews,Price,Supported_apps,Resolution
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,694,173,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,694,173,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 108 cm (43 inch) Full HD LED Smart TV,4.4,1,108,43,20,,,31999,Netflix|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,"3,946",822,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,"3,946",822,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,,,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,694,173,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,"3,946",822,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,,,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 125 cm (50 inch) Ultra HD (4K) LED Smart TV,4.5,1,125,50,20,694,173,47999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,,,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,"3,946",822,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,,,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,"3,946",822,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,694,173,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,"3,946",822,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,,,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,"3,946",822,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 125 cm (50 inch) Ultra HD (4K) LED Smart TV,4.5,1,125,50,20,694,173,47999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,"3,946",822,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,,,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,694,173,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,"3,946",822,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,,,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 125 cm (50 inch) Ultra HD (4K) LED Smart TV,4.5,1,125,50,20,694,173,47999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,"3,946",822,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,,,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,126,50,30,"3,209",511,33999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,"3,946",822,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,,,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,694,173,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,"3,946",822,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense, A71F 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,108,43,24,694,173,28999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 163 cm (65 inch) Ultra HD (4K) LED Smart TV,4.4,1,163,65,20,24,2,99999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, The Frame 163 cm (65 inch) QLED Ultra HD (4K) Smart TV,4.5,1,163,65,40,"3,209",511,124999,Netflix|Prime Video|Apple TV|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.3,1,80,32,20,"1,656",161,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver,4.3,1,80,32,20,309,11,14499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,24,"1,13,963","14,025",13999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2021 Edition with Voice Search,4.2,1,80,32,20,37,4,17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,108,43,20,"70,841","7,591",27999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.3,1,80,32,10,"21,371","1,920",16499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+realme, 108 cm (43 inch) Full HD LED Smart Android TV,4.3,1,108,43,24,"1,13,963","14,025",23999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition,4.4,1,80,32,20,"29,387","2,754",16999,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Mi, 4A 100 cm (40 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,100,40,20,"5,90,772","61,608",21999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+Mi, 4X 125.7 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.4,1,,50,20,"70,841","7,591",33999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+LG, 108 cm (43 inch) Ultra HD (4K) LED Smart TV,4.4,1,108,43,20,"9,991","1,180",34999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Hisense," A73F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with 102W JBL 6 Speakers, Dolby Visio...",4.6,1,139,55,02,694,173,45499,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Horizon Edition 80 cm (32 inch) HD Ready LED Smart Android TV,4.4,1,80,32,20,"17,694","1,665",15499,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition with Voice Search,4.4,1,80,32,20,"18,465","2,384",17490,Netflix|Disney+Hotstar|Youtube,1366 x 768 Pixels
+SAMSUNG, Crystal 4K 108 cm (43 inch) Ultra HD (4K) LED Smart TV,,1,108,43,20,,,36999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+Mi, 4A Pro 108 cm (43 inch) Full HD LED Smart Android TV with With Google Data Saver,4.4,1,108,43,20,"5,90,772","61,608",24999,Netflix|Prime Video|Disney+Hotstar|Youtube,1920 x 1080 Pixels
+OnePlus, Y Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.3,1,80,32,20,"18,499","1,646",14999,Netflix|Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Hisense, A71F 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & ATMOS,4.4,1,139,55,30,"3,946",822,39999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+iFFALCON, by TCL 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.3,1,126,50,24,"3,355",461,26999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+KODAK, 7XPRO Series 80 cm (32 inch) HD Ready LED Smart Android TV,4.5,1,80,32,24,"11,992","3,227",13499,Prime Video|Disney+Hotstar|Youtube,1366 x 768 Pixels
+Vu, Premium 126 cm (50 inch) Ultra HD (4K) LED Smart Android TV,4.5,1,126,50,30,"16,062","2,905",35999,Netflix|Prime Video|Disney+Hotstar|Youtube,3840 x 2160 Pixels
+SAMSUNG, Crystal 4K 125 cm (50 inch) Ultra HD (4K) LED Smart TV,,1,125,50,20,,,48999,Netflix|Disney+Hotstar|Youtube,3840 x 2160 Pixels
